@@ -1,0 +1,39 @@
+body {
+    background-color:cornsilk;
+}
+
+#home-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: #3D3C3A;
+    margin: -10px;
+    margin-top: -20px;
+}
+.centre-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    color: #3D3C3A;
+    margin: 10px;
+    margin-top: -100px;
+}
+.page-titles {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    text-align: right;
+    color: #3D3C3A;
+    margin: 20px;
+    padding: 0px;
+    list-style-type: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding-top: -10px;
+}
+.nav-items {
+    display: flex;
+    float: right;
+    padding-right: 10em;
+}
