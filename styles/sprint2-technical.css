@@ -86,4 +86,25 @@ body {
     display: inline-block;
     word-spacing: 2px;
     font-size: 20px;
+    display: inline-block;
+}
+#inline-image {
+    float: right;
+    height: 300;
+    width: 300;
+    margin-left: 10px;
+}
+#inlineblock-image {
+    float: right;
+    height: 300;
+    width: 300;
+    margin-left: 10px;
+}
+#heater-screenshot {
+    float: right;
+    height: 250;
+    width: 600;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding-right: 325px;
 }
