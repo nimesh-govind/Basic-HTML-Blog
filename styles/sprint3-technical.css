@@ -77,3 +77,22 @@ body {
     color: #3D3C3A;
     margin-bottom: 50px;
 }
+.content-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    color: #3D3C3A;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.content-paragraph {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    text-align: left;
+    color: #3D3C3A;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline-block;
+    word-spacing: 2px;
+    font-size: 20px;
+}
