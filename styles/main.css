@@ -88,8 +88,9 @@ body {
 
 @media (max-width: 320px) {
     #home-title {
-        width: 200%;
+        width: 100%;
         zoom: 50%;
+        padding-left: 110px;
     }
     .centre-title {
         width: 150%;
