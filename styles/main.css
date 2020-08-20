@@ -85,3 +85,44 @@ body {
     padding-left: 220px;
     padding-top: 0px;
 }
+
+@media (max-width: 320px) {
+    #home-title {
+        width: 200%;
+        zoom: 50%;
+    }
+    .centre-title {
+        width: 150%;
+        zoom: 53%;
+        padding-left: 100px;
+    }
+    .nav-items {
+        width: 100%;
+        zoom: 90%;
+        padding-right: 0px;
+    }
+    .main-text {
+        width: 200%;
+        padding-left: -15px;
+        zoom: 115%;
+        margin-top: 10px;
+    }
+    .nimesh-govind {
+        width: 100%;
+        padding-left: 100px;
+        zoom: 150%;
+    }
+    .dev-academy-student {
+        width: 100%;
+        padding-left: 150px;
+        zoom: 150px;
+    }
+    #contact-title {
+        width: 100%;
+        padding-left: 135px;
+    }
+    .contact-text {
+        width: 200%;
+       padding-left: -200px;
+    }
+}
