@@ -127,3 +127,83 @@ body {
        padding-left: -200px;
     }
 }
+
+@media (max-width: 768px) {
+    #home-title {
+        width: 0%;
+        zoom: 50%;
+        padding-left: 350px;
+    }
+    .centre-title {
+        width: 100%;
+        zoom: 53%;
+        padding-left: 300px;
+        text-align: left;
+    }
+    .nav-items {
+        width: 100%;
+        zoom: 90%;
+        padding-right: 0px;
+    }
+    .main-text {
+        width: 100%;
+        zoom: 115%;
+    }
+    .nimesh-govind {
+        width: 100%;
+        padding-left: 10px;
+        zoom: 150%;
+    }
+    .dev-academy-student {
+        width: 100%;
+        padding-left: 10px;
+        zoom: 150px;
+    }
+    #contact-title {
+        width: 100%;
+        padding-left: 10px;
+    }
+    .contact-text {
+        width: 100%;
+       padding-left: 10px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #home-title {
+        width: 0%;
+        zoom: 75%;
+        padding-left: 150px;
+    }
+    .centre-title {
+        width: 100%;
+        zoom: 53%;
+        padding-left: 400px;
+        text-align: left;
+    }
+    .nav-items {
+        width: 100%;
+        zoom: 90%;
+        padding-right: 0px;
+    }
+    .main-text {
+        width: 90%;
+        zoom: 115%;
+        text-align: center;
+    }
+    .nimesh-govind {
+        width: 90%;
+        padding-left: -10px;
+        zoom: 150%;
+    }
+    .dev-academy-student {
+        width: 90%;
+    }
+    #contact-title {
+        width: 90%;
+    }
+    .contact-text {
+        width: 90%;
+    }
+
+}
